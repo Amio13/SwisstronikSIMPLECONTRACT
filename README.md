@@ -1,6 +1,7 @@
 <<<<<<< HEAD
 # Swisstronik-1
-Contributing to Swisstronik
+Contributing to Swisstronik with Simple Contract
+
 =======
 # Sample Hardhat Project
 
